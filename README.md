@@ -1,4 +1,4 @@
-![User_Infinite_Wintersday_Header](https://user-images.githubusercontent.com/76962395/114155390-1da59880-992a-11eb-8979-74f899ac9e9f.png)
+![razdelitelnaya-linya](https://user-images.githubusercontent.com/76962395/114155721-77a65e00-992a-11eb-8b37-0e7f0f5b79a7.png)
 
 ### Hi there 👋
 My name is Alex, I'm Java, Python and C++ developer ⚡
