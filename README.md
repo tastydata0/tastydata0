@@ -27,8 +27,8 @@ My name is Alex, I'm Java, Python and C++ developer ⚡
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 - 🔭 I’m currently working on my university projects.
 - 🌱 I’m currently learning C++ and Flutter framework.
-
-**Email**: [alex.zv.ev@gmail.com](mailto:alex.zv.ev@gmail.com)
+-->
+**Email**: [tastydata0@gmail.com](mailto:tastydata0@gmail.com)
